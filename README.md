@@ -1,1 +1,1 @@
-Programa em Java relacionado a inscrição em cursos - mentoria - bootcamp
+Programa em Java relacionado a inscrição em curso - mentoria - bootcamp
